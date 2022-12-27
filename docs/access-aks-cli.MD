@@ -2,10 +2,6 @@
 ## Install Azure CLI
 ```sh
 
-## Install Azure CLI on linex
-wget https://aka.ms/installazurecliwindows
-```
-
 ## Downlaod & Install Azure CLI on Windows
 https://aka.ms/installazurecliwindows
 ```
